@@ -20,3 +20,6 @@ React.createElement("h1",{},"I'm in h1"))
 const root=ReactDOM.createRoot( document.getElementById("root"));
 console.log(parent)
 root.render(parent);//render-> to take this obj to create h1 tag  in html and put it in root
+
+
+//package.json is a configuration for npm
